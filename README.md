@@ -142,12 +142,19 @@ Each folder should contain a version of your app icon (e.g., `ic_launcher.png`) 
 
 ## 📸 Screenshots & Recording
 
-![random_announcements](https://github.com/user-attachments/assets/c29ea8b9-bcf8-4399-9fe2-2bd508e4ce3c)
-![static_random_live](https://github.com/user-attachments/assets/bfc7c4ad-03c2-4078-9dfe-12dc7b20272b)
-![dashboard](https://github.com/user-attachments/assets/c6f3d40f-c4e3-49e2-a5f2-a882ce48d66a)
-![chatting_page](https://github.com/user-attachments/assets/24a61fc6-bfd6-4c80-9915-685ea93ece6a)
-![firebase_chat](https://github.com/user-attachments/assets/326b389e-b1f7-44bd-9453-0ce9888409e3)
-![profile_page](https://github.com/user-attachments/assets/657395a0-0cc9-4be8-a445-44df0c9ff92e)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c29ea8b9-bcf8-4399-9fe2-2bd508e4ce3c" alt="random_announcements" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/bfc7c4ad-03c2-4078-9dfe-12dc7b20272b" alt="static_random_live" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/c6f3d40f-c4e3-49e2-a5f2-a882ce48d66a" alt="dashboard" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/24a61fc6-bfd6-4c80-9915-685ea93ece6a" alt="chatting_page" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/326b389e-b1f7-44bd-9453-0ce9888409e3" alt="firebase_chat" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/657395a0-0cc9-4be8-a445-44df0c9ff92e" alt="profile_page" width="400"/>
+</div>
 
 
 https://github.com/user-attachments/assets/48206ec7-004e-407a-824f-75d33f2ed647
