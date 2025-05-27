@@ -75,6 +75,7 @@ flutter pub get
 
 - Add your Firebase project files (`google-services.json` for Android and `GoogleService-Info.plist` for iOS)
 - Ensure Firestore and Realtime Database are enabled
+- Refer this Official documentation for full development of firebase : https://firebase.google.com/docs/android/setup
 
 ### 4. Run the App
 
